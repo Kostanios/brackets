@@ -38,6 +38,10 @@ Write your code in `src/index.js`
 1. Open [rs app](https://app.rs.school) and login
 2. Go to [submit task page](https://app.rs.school/course/submit-task?course=rs-2019-q3)
 3. Select your task (brackets)
-4. Press submit button and enjoy 
+4. Press submit button and enjoy
+
+### Notes
+1. We recommend you to use nodejs of version 10 or lower. If you using any of features that does not supported by node v10, score won't be submitted.
+2. Please be sure that each of your test in limit of 30sec.
 
 credits [@yankouskia](https://github.com/yankouskia/)
